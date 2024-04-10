@@ -10,6 +10,11 @@ npm install
 npm run serve
 ```
 
+### Change variables .env
+```
+Replace the VUE_APP_API_URL variable inside the .env file with that of your local API
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
